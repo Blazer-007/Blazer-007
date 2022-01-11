@@ -1,0 +1,100 @@
+{
+  "name": "Vivek Rai",
+  "profilePic": "/assets/images/profilepic.jpg",
+  "aboutMsg": "A passionate coder from MNNIT Allahabad in the India. I love to play with machine & deep learning models and always eager to learn new things.",
+  "skills": [
+    "C++",
+    "Data Structure & Algorithms",
+    "Python3",
+    "Machine Learning",
+    "Computer Vision",
+    "Object Detection",
+    "Neural Networks",
+    "Image Processing",
+    "JavaScript",
+    "ReactJS",
+    "Django",
+    "Oracle SQL"
+  ],
+  "achievements": [
+    "Winner of Logical Rhythm Event (ML based) of Avishkar 2020 (MNNIT Allahabad).",
+    "Rank 20th (out of 2000+ participants) in Cascade Cup’20 , a Data Science Hackathon organised by IIT GUWAHATI.",
+    "Runner Up in Codotron Event (ICPC based coding event) of Avishkar 2020 (MNNIT Allahabad).",
+    "Runner Up in Embedded System Design Event of Avishkar-2019 (MNNIT Allahabad).",
+    "Second Runner Up in Softablitz Event of Avishkar 2018 (MNNIT Allahabad).",
+    "In Top 20 (out of 200+ teams) in Hack36 4.O , a premiere Hackathon of MNNIT Allahabad.",
+    "Participated in the IARC challenge in Techkriti 2019 (IIT Kanpur)."
+  ],
+  "projects": [
+    {
+      "key": 1111,
+      "title": "AI-PROCTORING-MATE",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-imageuploadpractice.appspot.com/o/vivekrai%2F1111.png?alt=media&token=839da23e-f117-4723-81c7-40ee3d787db2",
+      "description": "It is an end-to-end Examination Portal, with AI-proctored student's Interface ...",
+      "seeMoreLink": "",
+      "githubLink": "https://github.com/Blazer-007/AI-Proctoring-Mate",
+      "demoLink": ""
+    },
+    {
+      "key": 1112,
+      "title": "EDU SQUAD",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-imageuploadpractice.appspot.com/o/vivekrai%2F1112.png?alt=media&token=93595bb6-b1b6-4579-9516-0b9407d9fdd7",
+      "description": "An Interactive virtual study platform for students and teachers.",
+      "seeMoreLink": "",
+      "githubLink": "https://github.com/Blazer-007/Adaptive-Learning",
+      "demoLink": ""
+    },
+    {
+      "key": 1113,
+      "title": "LogicalRhythm2k20",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-imageuploadpractice.appspot.com/o/vivekrai%2F1113.png?alt=media&token=d4ad55a0-9321-46d7-be1b-de13607a9bb5",
+      "description": "In this event we solved 3 different Machine Learning Problem statements. They were based on regression, classification and image classification.",
+      "seeMoreLink": "",
+      "githubLink": "https://github.com/Blazer-007/LogicalRhythm2k20",
+      "demoLink": ""
+    },
+    {
+      "key": 1114,
+      "title": "Movie Recommendation System",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-imageuploadpractice.appspot.com/o/vivekrai%2F1114.png?alt=media&token=2156eae8-820a-47ce-b339-98f29a05eb5c",
+      "description": "A Movie Recommendation System Project using Pandas.",
+      "seeMoreLink": "",
+      "githubLink": "https://github.com/Blazer-007/Movie-Recommendation-System",
+      "demoLink": ""
+    },
+    {
+      "key": 1115,
+      "title": "Lyrics Generator",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-imageuploadpractice.appspot.com/o/vivekrai%2F1115.png?alt=media&token=d8a84e77-e69a-4836-9acf-a0ef6757d20e",
+      "description": "A simple lyrics/text generation project using Markov Chain model.",
+      "seeMoreLink": "",
+      "githubLink": "https://github.com/Blazer-007/Lyrics_Generator",
+      "demoLink": ""
+    },
+    {
+      "key": 1116,
+      "title": "The Luck Game",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-imageuploadpractice.appspot.com/o/vivekrai%2F1116.png?alt=media&token=fa04badb-71ff-4a52-9dc4-2060bf963332",
+      "description": "A simple game made using Javascript, HTML and CSS.",
+      "seeMoreLink": "",
+      "githubLink": "https://github.com/Blazer-007/The-Luck-Game",
+      "demoLink": ""
+    }
+  ],
+  "portfolio_pictures": {
+    "image": [
+
+    ],
+    "thumbnail": [
+
+    ]
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/vivekrai007/",
+    "twitter": "https://twitter.com/_Blazer_007",
+    "github": "http://github.com/Blazer-007",
+    "instagram": "https://www.instagram.com/_blazer_007_/",
+    "codeforces": "https://codeforces.com/profile/Blazer_007",
+    "kaggle": "https://www.kaggle.com/blazer007"
+  }
+}
