@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on enhancing my Computer Vision Skills;
-- 🌱 I’m currently learning Vision Transformers and algorithms based on it;
+- 🔭 I’m currently working at Oracle as Member Technical Staff;
+- 🌱 I work on backend developemnt using Java;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="https://twitter.com/_Blazer_007">@_Blazer_007</a> , <a href="https://www.linkedin.com/in/vivekrai007/">@vivekrai007</a> ;
 <img src="https://github-readme-stats.vercel.app/api?username=Blazer-007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
