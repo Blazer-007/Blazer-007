@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at Linkedin in Data & Infra Team on Data Movement team;
+- 🔭 I’m currently working at Linkedin in Data & Infra Org on Data Movement team;
 - 🌱 I work on backend developemnt using Java;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="https://twitter.com/_Blazer_007">@_Blazer_007</a> , <a href="https://www.linkedin.com/in/vivekrai007/">@vivekrai007</a> ;
